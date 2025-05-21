@@ -1,0 +1,111 @@
+data,unidade,material,tipo,quantidade,responsavel
+2025-01-12,Santo Amaro,Tubo,saida,-5.0,Vincent
+2025-03-14,Moema,Seringa,saida,-3.0,Mason
+2025-02-09,Santo Amaro,Seringa,saida,-5.0,Kenneth
+2025-03-23,Santo Amaro,Seringa,saida,-14.0,Jeffrey
+2024-12-13,Morumbi,Medicamentos,saida,-10.0,Robert
+2025-05-12,Moema,Medicamentos,saida,-14.0,Debra
+2025-03-15,Santo Amaro,Esparadrapo,saida,-10.0,Hannah
+2025-03-26,Santo Amaro,Seringa,saida,-9.0,Leslie
+2025-05-09,Moema,Esparadrapo,saida,-2.0,Michael
+2025-04-08,Santo Amaro,Seringa,saida,-17.0,James
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.0,Derek
+2025-02-13,Moema,Medicamentos,saida,-5.0,Lynn
+2024-11-19,Santo Amaro,Seringa,saida,-8.0,Brandon
+2025-05-17,Moema,Medicamentos,saida,,Lisa
+2024-11-26,Morumbi,Seringa,saida,-17.0,Jeremy
+2024-12-15,Moema,Seringa,entrada,11.0,Nicole
+2025-04-24,Santo Amaro,Gaze,saida,-7.0,Matthew
+2025-01-29,Morumbi,Esparadrapo,saida,-12.0,Justin
+2025-02-18,Moema,Tubo,saida,-19.0,David
+2025-05-01,Moema,Esparadrapo,saida,-10.0,Theodore
+2025-03-24,Moema,Gaze,saida,-14.0,Robin
+2025-03-13,Morumbi,Medicamentos,saida,-9.0,Kimberly
+2024-12-31,Santo Amaro,Esparadrapo,saida,-2.0,Rachel
+2025-02-08,Moema,Esparadrapo,saida,-10.0,Janet
+2025-05-15,Moema,Seringa,saida,-7.0,Ann
+2025-01-04,Santo Amaro,Medicamentos,saida,-14.0,Alice
+2025-02-18,Santo Amaro,Esparadrapo,saida,-7.0,Kelly
+2024-11-25,Moema,Gaze,saida,-4.0,William
+2025-03-30,Santo Amaro,Medicamentos,entrada,495.0,Patrick
+2025-04-21,Morumbi,Seringa,saida,-7.0,Justin
+2024-11-18,Moema,Medicamentos,saida,-19.0,Andrea
+2025-04-07,Santo Amaro,Seringa,saida,-13.0,Michael
+2025-03-14,Santo Amaro,Tubo,saida,-9.0,Amy
+2025-02-13,Morumbi,Seringa,saida,-19.0,Nathan
+2025-01-18,Moema,Esparadrapo,saida,-17.0,Kimberly
+2025-01-10,Moema,Gaze,saida,17.0,Nicole
+2025-01-22,Santo Amaro,Seringa,saida,-18.0,John
+2025-01-25,Santo Amaro,Tubo,entrada,303.0,Mason
+2025-05-18,Santo Amaro,Seringa,saida,-19.0,Paul
+2025-01-06,Morumbi,Seringa,saida,-8.0,Kevin
+2025-02-26,Moema,Seringa,saida,-17.0,Fernando
+2025-01-25,Morumbi,Tubo,saida,-11.0,Patrick
+2025-01-22,Morumbi,Tubo,saida,-2.0,William
+2024-11-18,Santo Amaro,Medicamentos,saida,-15.0,Sarah
+2025-01-19,Moema,Medicamentos,saida,-3.0,Amber
+2025-01-16,Santo Amaro,Medicamentos,saida,-13.0,Yvonne
+2025-05-16,Moema,Seringa,saida,-9.0,Stephanie
+2025-04-28,Santo Amaro,Medicamentos,entrada,137.0,Chelsea
+2024-11-30,Morumbi,Medicamentos,saida,-14.0,Katie
+2025-01-17,Moema,Esparadrapo,saida,-4.0,James
+2025-01-03,Moema,Gaze,saida,-19.0,Russell
+2025-04-10,Morumbi,Medicamentos,saida,-2.0,Joseph
+2025-02-25,Moema,Seringa,saida,-12.0,Michele
+2025-03-13,Morumbi,Gaze,saida,-7.0,Nancy
+2025-01-07,Morumbi,Seringa,saida,-10.0,Breanna
+2025-03-07,Moema,Tubo,saida,-1.0,Julie
+2025-05-15,Santo Amaro,Seringa,saida,-4.0,Ricky
+2024-12-19,Moema,Esparadrapo,saida,-15.0,Tammy
+2024-12-31,Santo Amaro,Gaze,saida,-18.0,Melissa
+2024-12-12,Moema,Tubo,saida,-19.0,Daniel
+2025-04-24,Morumbi,Esparadrapo,saida,-10.0,Ryan
+2025-01-16,Santo Amaro,Tubo,saida,-13.0,Tara
+2025-01-27,Santo Amaro,Gaze,saida,-7.0,Jason
+2025-05-02,Morumbi,Esparadrapo,saida,-2.0,Deborah
+2024-12-29,Moema,Tubo,entrada,183.0,Kari
+2025-04-03,Santo Amaro,Gaze,saida,-3.0,Holly
+2025-02-03,Moema,Gaze,saida,-16.0,Kelsey
+2025-02-13,Morumbi,Esparadrapo,saida,-18.0,Charles
+2024-12-03,Santo Amaro,Gaze,saida,-10.0,Brett
+2025-04-21,Santo Amaro,Tubo,saida,-19.0,Alexandra
+2025-03-11,Moema,Medicamentos,saida,-12.0,William
+2024-12-07,Moema,Gaze,saida,-6.0,Tyler
+2025-01-07,Moema,Medicamentos,saida,19.0,Melinda
+2025-02-12,Morumbi,Medicamentos,saida,-14.0,Tony
+2025-01-21,Santo Amaro,Seringa,saida,-7.0,Christy
+2025-05-01,Moema,Medicamentos,saida,-9.0,Adam
+2025-02-09,Santo Amaro,Gaze,saida,-13.0,Natasha
+2025-05-07,Moema,Esparadrapo,saida,-4.0,Tina
+2025-02-28,Santo Amaro,Tubo,saida,-2.0,Tyler
+2025-04-04,Santo Amaro,Medicamentos,saida,-14.0,Monica
+2025-05-09,Moema,Seringa,saida,-3.0,Kenneth
+2025-04-22,Morumbi,Tubo,saida,-15.0,Julie
+2025-01-17,Santo Amaro,Tubo,saida,-6.0,Gary
+2025-02-04,Morumbi,Medicamentos,saida,-9.0,Harold
+2025-04-27,Santo Amaro,Tubo,saida,-6.0,Johnny
+2025-03-18,Morumbi,Esparadrapo,saida,-3.0,Sarah
+2024-12-20,Santo Amaro,Gaze,saida,-8.0,Ashley
+2025-04-19,Moema,Gaze,saida,-16.0,Michael
+2025-05-06,Morumbi,Gaze,saida,-12.0,Valerie
+2024-11-17,Moema,Seringa,saida,-18.0,
+2025-03-18,Moema,Tubo,saida,-5.0,Melissa
+2025-01-09,Santo Amaro,Tubo,saida,-10.0,Jill
+2025-01-26,Morumbi,Seringa,entrada,262.0,Karina
+2025-02-05,Morumbi,Esparadrapo,saida,-17.0,Michael
+2025-01-15,Moema,Tubo,saida,-1.0,Michelle
+2025-05-17,Santo Amaro,Seringa,saida,-19.0,Kathryn
+2025-01-23,Santo Amaro,Esparadrapo,saida,-2.0,Terry
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.0,Ryan
+2025-03-11,Morumbi,Medicamentos,saida,-11.0,James
+2025-03-31,Morumbi,Seringa,saida,-17.0,Ashley
+2024-11-26,Morumbi,Seringa,saida,-17.0,Jeremy
+2025-04-10,Morumbi,Medicamentos,saida,-2.0,Joseph
+2024-12-03,Santo Amaro,Gaze,saida,-10.0,Brett
+2025-01-07,Moema,Medicamentos,saida,19.0,Melinda
+2025-01-29,Morumbi,Esparadrapo,saida,-12.0,Justin
+2025-01-25,Morumbi,Tubo,saida,-110.0,Patrick
+2025-02-28,Santo Amaro,Tubo,saida,-20.0,Tyler
+2025-03-18,Moema,Tubo,saida,-50.0,Melissa
+2025-02-09,Santo Amaro,Seringa,saida,-50.0,Kenneth
+2025-05-06,Morumbi,Gaze,saida,-120.0,Valerie
